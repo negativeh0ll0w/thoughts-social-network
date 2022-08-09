@@ -5,3 +5,9 @@ The backend for a social network where users can share thoughts, react to though
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/64660713/183536160-2f43f4bb-6275-42c5-afe8-9db3a0065e28.png)
+
+## Languages/technologies:
+* Javascript
+* MongoDB
+* Mongoose
+* express.js
