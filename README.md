@@ -19,6 +19,4 @@ https://drive.google.com/file/d/1Al9GaN5APW1o09VcRarNwjDGntzEKlgC/view
 * express.js
 
 ## Contributors:
-* https://github.com/Smccarthy17
-* https://github.com/JakMcCarthy
-* https://github.com/Chrisp1993
+Susan, Jackson, Chris P., Sarah
