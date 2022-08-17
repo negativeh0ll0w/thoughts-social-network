@@ -19,4 +19,4 @@ https://drive.google.com/file/d/1Al9GaN5APW1o09VcRarNwjDGntzEKlgC/view
 * express.js
 
 ## Contributors:
-Susan, Jackson, Chris P., Sarah
+Susan, Jackson, Chris P., Sarah, Ricky
